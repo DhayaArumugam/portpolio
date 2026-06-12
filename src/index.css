@@ -1,0 +1,25 @@
+@import "tailwindcss";
+.clip-path-custom {
+  clip-path: polygon(0 0, 100% 0, 75% 100%, 0% 100%);
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #343a88;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.hero-script {
+  font-family: "Brush Script MT", "Segoe Script", cursive;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.hero-overlay {
+  background:
+    linear-gradient(180deg, rgba(37, 45, 122, 0.58) 0%, rgba(40, 48, 133, 0.2) 32%, rgba(52, 58, 136, 0.72) 100%);
+}
