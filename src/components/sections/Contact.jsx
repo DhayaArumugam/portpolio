@@ -32,6 +32,7 @@ export const Contact = () => {
                 <p className="font-medium text-slate-900">Email</p>
                 <p className="text-slate-600">
                   dhayalan.a2002@gmail.com
+                  
                 </p>
               </div>
 

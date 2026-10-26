@@ -64,24 +64,24 @@ export const projects = [
     description:
       "A full-featured dashboard for managing employees, attendance, departments, and reports with a modern UI.",
     tech: "React, Next.js, Tailwind CSS, MongoDB",
-    demo: "#",
-    github: "#",
+    demo: "https://employee-dashboard-chi-one.vercel.app/dashboard",
+    github: "https://github.com/DhayaArumugam/Employee-Dashboard",
   },
   {
     title: "Online Book Store",
     description:
       "An e-commerce platform for browsing books, managing carts, and placing orders.",
-    tech: "React, JavaScript, CSS",
-    demo: "#",
-    github: "#",
+    tech: "React.js, JavaScript, CSS, Vite",
+    demo: "https://online-book-store-ruddy-beta.vercel.app/",
+    github: "https://github.com/DhayaArumugam/Online-Book-Store",
   },
   {
     title: "Student Management System",
     description:
       "A web application for managing student records, courses, and academic information.",
     tech: "React, Node.js, MongoDB",
-    demo: "#",
-    github: "#",
+    demo: "https://student-management-system.vercel.app/",
+    github: "https://github.com/DhayaArumugam/Student-Management-System",
   },
   {
     title: "Portfolio Website",
@@ -89,7 +89,7 @@ export const projects = [
       "A responsive portfolio website showcasing projects, skills, and contact information.",
     tech: "React, Tailwind CSS",
     demo: "#",
-    github: "#",
+    github: "https://github.com/DhayaArumugam/portpolio",
   },
   {
     title: "Blog API",
